@@ -2,7 +2,7 @@
 ## Hey there im 0x157 !    
 <img height="40" width="500" src="https://github.com/0x157/0x157/blob/main/giphy.gif"> 
 
-## ⌨ Techinal Skills
+## 💾 Techinal Skills
 
 <img src="https://img.shields.io/badge/-Python-f7e80c?logo=Python&logoColor=0d0d0d">
 
