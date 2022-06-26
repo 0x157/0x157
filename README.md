@@ -1,5 +1,6 @@
 
-## Hey there im 0x157 !    ![monophy](https://user-images.githubusercontent.com/102762345/175838316-14dfbc36-7d5b-4683-abc7-96aeb0032010.gif)
+## Hey there im 0x157 !    
+
 
     
 <img src="https://img.shields.io/badge/-Python-f7e80c?logo=Python&logoColor=0d0d0d">
