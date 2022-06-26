@@ -1,8 +1,10 @@
 
 ## Hey there im 0x157 !    
 
-
+<code><img height="10" src="https://github.com/0x157/0x157/blob/main/giphy.gif"></code>
     
+     
+     
 <img src="https://img.shields.io/badge/-Python-f7e80c?logo=Python&logoColor=0d0d0d">
 
 # I like to use 
