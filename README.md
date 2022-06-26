@@ -1,6 +1,5 @@
 
-## Hey there im 0x157 !   ![52O8](https://user-images.githubusercontent.com/102762345/175838051-f9734df1-4ef5-4518-931a-5d622da099ec.gif, width=30px)
-
+## Hey there im 0x157 !   ![moon-stars](https://user-images.githubusercontent.com/102762345/175838185-d510aecc-3dda-40d0-a2c7-ee97e1831805.gif)
 
 
 
