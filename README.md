@@ -1,7 +1,7 @@
 
 ## Hey there im 0x157 !    
 
-<img height="65" width="25" src="https://github.com/0x157/0x157/blob/main/giphy.gif">
+<img height="40" width="500" src="https://github.com/0x157/0x157/blob/main/giphy.gif">
     
      
      
