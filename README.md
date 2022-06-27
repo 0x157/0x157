@@ -2,7 +2,15 @@
 
 ## Hey there im 0x157 !    
 
-I have a lot of interests them being: Software Reverse Engineering <img width="26" height="26" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Ghidra_Logo.png"> this includes malware analysis, debugging, disassembly and decompiling any kind of software :). 
+Im interested in a lot of things:
+
+Cyber Security <img width="26" height="26" src="https://www.pngmart.com/files/7/Cyber-Security-PNG-Picture.png"> has been one my main fields that I've been interested in for awhile now, to be more specific i like Penetration Testing, OSINT, Digital Forensics and Social Engineering.
+
+Software Reverse Engineering <img width="26" height="26" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Ghidra_Logo.png"> this includes malware analysis, debugging, disassembly and decompiling any kind of software :). 
+
+Programming
+
+Touch Typing
 
 ## 💾 Techinal Skills
 
