@@ -6,7 +6,7 @@ I have a lot of interests them being: Software Reverse Engineering <img width="2
 
 ## 💾 Techinal Skills
 
-<img src="https://img.shields.io/badge/-Python-f7e80c?logo=Python&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-Linux-557C94?logo=KaliLinux&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?logo=visualstudio&logoColor=0d0d0d">
+<img src="https://img.shields.io/badge/-Python-f7e80c?logo=Python&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-Linux-557C94?logo=KaliLinux&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?logo=visualstudio&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-BASH-4EAA25?logo=gnubash&logoColor=0d0d0d">
 
           
           
