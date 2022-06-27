@@ -10,14 +10,13 @@ Software Reverse Engineering this includes malware analysis, debugging, disassem
 
 Programming is definetely a thing i've been doing the longest out of all my interests that i listed above and below. I mainly code python and work with with everyday. Though i have general knowledge with languages like C++, Bash, JavaScript, HTML/CSS. <img width="26" height="26" src="https://icon-library.com/images/programming-icon-png/programming-icon-png-22.jpg">
 
-Touch Typing is something that i have started pretty recent i'd say, around 2 months ago i wanted to learn how to touch type and it has been going great since, i went from 50 wpm all the way up to 80-90 wpm on easier texts. 
+Touch Typing is something that i have started pretty recent i'd say, around 2 months ago i wanted to learn how to touch type and it has been going great since, i went from 50 wpm all the way up to 80-90 wpm on easier texts. <img width="26" height="26" src="https://www.clipartmax.com/png/middle/114-1148415_keyboard-icon.png">
 
 ## 💾 Techinal Skills
 
-<img src="https://img.shields.io/badge/-Python-f7e80c?logo=Python&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-Linux-557C94?logo=KaliLinux&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?logo=visualstudio&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-BASH-4EAA25?logo=gnubash&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-PyCharm-D22128?logo=pycharm&logoColor=0d0d0d">
+<img src="https://img.shields.io/badge/-Python-f7e80c?logo=Python&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-Linux-557C94?logo=KaliLinux&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?logo=visualstudio&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-BASH-4EAA25?logo=gnubash&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-PyCharm-D22128?logo=pycharm&logoColor=0d0d0d">
 
-          
-          
+                   
           
 ## Below Are some of my GitHub Stats
 
