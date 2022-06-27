@@ -2,11 +2,11 @@
 
 ## Hey there im 0x157 !    
 
-My name is Slava
+I have a lot of interests, to begin with i really like Software Reverse Engineering <img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Ghidra_Logo.png"> 
 
 ## 💾 Techinal Skills
 
-<img src="https://img.shields.io/badge/-Python-f7e80c?logo=Python&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-Linux-557C94?logo=KaliLinux&logoColor=0d0d0d"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Ghidra_Logo.png">
+<img src="https://img.shields.io/badge/-Python-f7e80c?logo=Python&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-Linux-557C94?logo=KaliLinux&logoColor=0d0d0d">
 
           
           
