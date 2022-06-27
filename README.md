@@ -1,6 +1,5 @@
-
+<img height="200" width="200" src="https://github.com/0x157/0x157/blob/main/52O8.gif"> 
 ## Hey there im 0x157 !    
-<img height="120" width="100" src="https://github.com/0x157/0x157/blob/main/52O8.gif"> 
 
 ## 💾 Techinal Skills
 
