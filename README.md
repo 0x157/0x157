@@ -22,6 +22,4 @@ Touch Typing is something that i have started pretty recent i'd say, around 2 mo
 ## Below Are some of my GitHub Stats
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x157&show_icons=true&theme=radical)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=0x157&count_private=true&show_icons=true&theme=radical) 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x157&show_icons=true&theme=radical)![Github Stats](https://github-readme-stats.vercel.app/api?username=0x157&count_private=true&show_icons=true&theme=radical) 
