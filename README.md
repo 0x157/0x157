@@ -2,7 +2,7 @@
 
 ## Hey there im 0x157 !    
 
-I have a lot of interests, to begin with i really like Software Reverse Engineering <img width="26" height="26" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Ghidra_Logo.png"> 
+I have a lot of interests, to begin with i really like Software Reverse Engineering <img width="26" height="26" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Ghidra_Logo.png"> this includes malware analysis, debugging, disassembly and decompiling any kind of software :)
 
 ## 💾 Techinal Skills
 
