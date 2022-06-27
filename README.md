@@ -6,7 +6,7 @@ My name is Slava
 
 ## 💾 Techinal Skills
 
-<img src="https://img.shields.io/badge/-Python-f7e80c?logo=Python&logoColor=0d0d0d"> <img width="75" src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=0d0d0d">
+<img width="55" src="https://img.shields.io/badge/-Python-f7e80c?logo=Python&logoColor=0d0d0d"> <img width="55" src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=0d0d0d">
 
           
           
