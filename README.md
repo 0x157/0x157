@@ -8,7 +8,7 @@ Cyber Security has been one my main fields that I've been interested in for awhi
 
 Software Reverse Engineering this includes malware analysis, debugging, disassembly and decompiling any kind of software :). <img width="26" height="26" src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Ghidra_Logo.png">
 
-Programming is definetely a thing i've been doing the longest out of all my interests that i listed above and below. I mainly code python and work with with everyday. Though i have general knowledge with languages like C++, Bash, JavaScript, HTML/CSS. <img width="26" height="26" src="https://mpng.subpng.com/20180514/ae/kisspng-web-development-laptop-computer-programming-softwa-5af978bd130269.0600777115262988130779.jpg">
+Programming is definetely a thing i've been doing the longest out of all my interests that i listed above and below. I mainly code python and work with with everyday. Though i have general knowledge with languages like C++, Bash, JavaScript, HTML/CSS. <img width="26" height="26" src="https://previews.123rf.com/images/coolvectorstock/coolvectorstock1811/coolvectorstock181104112/111458125-programming-language-transparent-icon-programming-language-symbol-design-from-programming-collection.jpg">
 
 Touch Typing is something that i have started pretty recent i'd say, around 2 months ago i wanted to learn how to touch type and it has been going great since, i went from 50 wpm all the way up to 80-90 wpm on easier texts. 
 
