@@ -10,7 +10,7 @@ Software Reverse Engineering this includes malware analysis, debugging, disassem
 
 Programming is definetely a thing i've been doing the longest out of all my interests that i listed above and below. I mainly code python and work with with everyday. Though i have general knowledge with languages like C++, Bash, JavaScript, HTML/CSS. <img width="26" height="26" src="https://icon-library.com/images/programming-icon-png/programming-icon-png-22.jpg">
 
-Touch Typing is something that i have started pretty recent i'd say, around 2 months ago i wanted to learn how to touch type and it has been going great since, i went from 50 wpm all the way up to 80-90 wpm on easier texts. <img width="26" height="26" src="https://www.clipartmax.com/png/middle/17-171853_do-it-yourself-services-keyboard-icon-red.png">
+Touch Typing is something that i have started pretty recent i'd say, around 2 months ago i wanted to learn how to touch type and it has been going great since, i went from 50 wpm all the way up to 80-90 wpm on easier texts. <img width="30" height="26" src="https://cdn2.iconfinder.com/data/icons/perfect-flat-icons-2/512/Computer_keyboard_monitor.png">
 
 ## 💾 Techinal Skills
 
