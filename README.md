@@ -1,5 +1,7 @@
 <img height="200" width="200" src="https://github.com/0x157/0x157/blob/main/52O8.gif"> 
+
 ## Hey there im 0x157 !    
+
 My name is Slava
 
 ## 💾 Techinal Skills
