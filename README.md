@@ -1,4 +1,4 @@
-<img height="200" width="200" align="middle" src="https://github.com/0x157/0x157/blob/main/52O8.gif"> 
+<img height="200" width="200" align="left" src="https://github.com/0x157/0x157/blob/main/52O8.gif"> 
 
 ## Hey there im 0x157 !    
 
