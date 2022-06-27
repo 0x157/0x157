@@ -12,6 +12,8 @@ Programming is definetely a thing i've been doing the longest out of all my inte
 
 Touch Typing is something that i have started pretty recent i'd say, around 2 months ago i wanted to learn how to touch type and it has been going great since, i went from 50 wpm all the way up to 80-90 wpm on easier texts. <img width="30" height="26" src="https://cdn2.iconfinder.com/data/icons/perfect-flat-icons-2/512/Computer_keyboard_monitor.png">
 
+I will be uploading a lot of my source code as time comes.
+
 ## 💾 Techinal Skills
 
 <img src="https://img.shields.io/badge/-Python-f7e80c?logo=Python&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-Linux-557C94?logo=KaliLinux&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?logo=visualstudio&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-BASH-4EAA25?logo=gnubash&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-PyCharm-D22128?logo=pycharm&logoColor=0d0d0d">
