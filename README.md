@@ -6,7 +6,7 @@ My name is Slava
 
 ## 💾 Techinal Skills
 
-<img src="https://img.shields.io/badge/-Python-f7e80c?logo=Python&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-Linux-557C94?logo=KaliLinux&logoColor=0d0d0d">
+<img src="https://img.shields.io/badge/-Python-f7e80c?logo=Python&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-Linux-557C94?logo=KaliLinux&logoColor=0d0d0d"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Ghidra_Logo.png">
 
           
           
