@@ -1,6 +1,14 @@
 <img height="200" width="200" align="right" src="https://github.com/0x157/0x157/blob/main/52O8.gif"> 
 
-## Welcome to my Profile    
+## Welcome to my Profile   
+
+I have a few interests 
+
+-> Reverse Engineering <-
+-> Digital Forensics <-
+-> Touch Typing <-
+-> Programming <-
+-> OSINT <-
 
 ## 💾 Techinal Skills
 
