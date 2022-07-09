@@ -5,9 +5,13 @@
 I have a few interests 
 
 -> Reverse Engineering <-
+
 -> Digital Forensics <-
+
 -> Touch Typing <-
+
 -> Programming <-
+
 -> OSINT <-
 
 ## 💾 Techinal Skills
