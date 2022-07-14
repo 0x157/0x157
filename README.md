@@ -1,5 +1,7 @@
 <img height="200" width="200" align="right" src="https://github.com/0x157/0x157/blob/main/52O8.gif"> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0x157-dev&label=Profile%20views&color=0e75b6&style=flat" alt="kubilay-dev" /> </p>
+
 ## Welcome to my Profile   
 
 I have a few interests :)
