@@ -14,7 +14,7 @@ I have a few interests :)
 
 --> OSINT 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0x157-dev&label=Profile%20views&color=0e75b6&style=flat" alt="kubilay-dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0x157-dev&label=Profile%20views&color=03fcb1&style=flat" alt="kubilay-dev" /> </p>
 
 ## 💾 Techinal Skills
 
