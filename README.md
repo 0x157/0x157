@@ -8,11 +8,11 @@ I have a few interests :)
 
 --> Digital Forensics 
 
---> Touch Typing 
+--> Touch Typing (96wpm)
 
 --> Programming 
 
---> OSINT 
+--> Cyber Security 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x157-dev&label=Profile%20views&color=ba241c&style=flat" /> </p>
 
