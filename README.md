@@ -4,7 +4,7 @@
 
 I have a few interests :)
 
---> Reverse Engineering 
+--> Cyber Security
 
 --> Digital Forensics 
 
@@ -12,7 +12,7 @@ I have a few interests :)
 
 --> Programming 
 
---> Cyber Security 
+--> Reverse Engineering 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x157-dev&label=Profile%20views&color=ba241c&style=flat" /> </p>
 
