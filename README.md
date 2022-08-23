@@ -22,7 +22,7 @@ I have a few interests :)
 
 ## Below Are some of my GitHub Stats
 
-<a href="https://github.com/its0din-ai"><img src="https://github-readme-streak-stats.herokuapp.com?user=0x157&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=CA2E55&stroke=20FC8F&ring=20FC8F&dates=20FC8F&background=282A36" alt="0x157 ::: Streaks" /></a>
+<a href="https://github.com/its0din-ai"></a>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0x157&theme=dracula)](https://git.io/streak-stats)
 
 
 
