@@ -20,7 +20,7 @@ I have a few interests :)
 
 <img src="https://img.shields.io/badge/-Python-f7e80c?logo=Python&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-Linux-557C94?logo=KaliLinux&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?logo=visualstudio&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-BASH-4EAA25?logo=gnubash&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-PyCharm-D22128?logo=pycharm&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-Windows-bd2341?logo=Windows&logoColor=0d0d0d">
 
-https://raw.githubusercontent.com/0x157/0x157/6b9d27def613c8d2facceded2c60288d143d11ad/contrib-snek-yami.svg
+<img src = https://raw.githubusercontent.com/0x157/0x157/6b9d27def613c8d2facceded2c60288d143d11ad/contrib-snek-yami.svg >
 
           
 ## Below Are some of my GitHub Stats
