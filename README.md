@@ -19,6 +19,7 @@ I have a few interests :)
 ## 💾 Techinal Skills
 
 <img src="https://img.shields.io/badge/-Python-f7e80c?logo=Python&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-Linux-557C94?logo=KaliLinux&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?logo=visualstudio&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-BASH-4EAA25?logo=gnubash&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-PyCharm-D22128?logo=pycharm&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-Windows-bd2341?logo=Windows&logoColor=0d0d0d">
+ <a href="https://github.com/its0din-ai"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=its0din-ai&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=CA2E55&stroke=20FC8F&ring=20FC8F&dates=20FC8F&background=282A36" alt="its0din-ai ::: Streaks" /></a>
 
 <img src = https://raw.githubusercontent.com/0x157/0x157/6b9d27def613c8d2facceded2c60288d143d11ad/contrib-snek-yami.svg >
 
