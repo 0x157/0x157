@@ -22,7 +22,8 @@ I have a few interests :)
 
 ## Below Are some of my GitHub Stats
 
-<a href="https://github.com/its0din-ai"></a>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0x157&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0x157&theme=dracula)](https://git.io/streak-stats)
+<img height="177px" src="https://readme-status-bay.vercel.app/api/top-langs/?username=0x157&hide_border=true&langs_count=8&custom_title=3+Top+Languages&title_color=20fc8f&theme=dracula&exclude_repo=machine&layout=compact&card_width=220" alt="0x157 ::: Top 3 Langs" /></a>
 
 
 
