@@ -23,5 +23,5 @@ I have a few interests :)
 ## Below Are some of my GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0x157&theme=dracula)](https://git.io/streak-stats)
-<img height="177px" src="https://readme-status-bay.vercel.app/api/top-langs/?username=0x157&hide_border=true&title_color=43c7e8&langs_count=3&custom_title=Top+Languages&theme=dracula&exclude_repo=machine&layout=compact&card_width=227" alt="0x157 ::: Top 3 Langs" /> </a>
+<img height="177px" src="https://readme-status-bay.vercel.app/api/top-langs/?username=0x157&hide_border=true&title_color=43c7e8&langs_count=3&custom_title=Top+Languages&theme=dracula&exclude_repo=machine&layout=compact&card_width=223" alt="0x157 ::: Top 3 Langs" /> </a>
 <img src = https://raw.githubusercontent.com/0x157/0x157/6b9d27def613c8d2facceded2c60288d143d11ad/contrib-snek-yami.svg >
