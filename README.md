@@ -25,6 +25,6 @@ I have a few interests :)
           
 ## Below Are some of my GitHub Stats
 
-<a href="https://github.com/0x157"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=0x157&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=CA2E55&stroke=20FC8F&ring=20FC8F&dates=20FC8F&background=282A36" alt="0x157 ::: Streaks" /></a>  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x157&show_icons=true&theme=radical)      
+<a href="https://github.com/0x157"><img src="https://github-readme-streak-stats.herokuapp.com?user=0x157&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=CA2E55&stroke=20FC8F&ring=20FC8F&dates=20FC8F&background=282A36" alt="0x157 ::: Streaks" /></a>  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0x157&show_icons=true&theme=radical)      
 
 
