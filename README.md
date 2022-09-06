@@ -8,7 +8,7 @@ I have a few interests :)
 
 --> Digital Forensics 
 
---> Touch Typing (101 WPM)
+--> Touch Typing (105 WPM)
 
 --> Programming 
 
