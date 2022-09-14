@@ -2,7 +2,7 @@
 
 ## Welcome to my Profile !   
 
-I have a few interests :)
+My Main interests are :
 
 --> Cyber Security
 
