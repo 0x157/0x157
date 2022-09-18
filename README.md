@@ -8,7 +8,7 @@
 
 --> Digital Forensics 
 
---> Touch Typing (106 WPM)
+--> Touch Typing (113 WPM)
 
 --> Programming 
 
