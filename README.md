@@ -22,6 +22,8 @@
 
 ## Below Are some of my GitHub Stats
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=0x157&theme=dracula">
+<h1 align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=0x157&theme=dracula">
+</h1>
 
 <img src = https://github.com/0x157/0x157/blob/output/contrib-snek-yami.svg >
