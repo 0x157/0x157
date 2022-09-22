@@ -1,8 +1,7 @@
 <img height="200" width="200" align="right" src="https://github.com/0x157/0x157/blob/main/52O8.gif" > 
 
-<h1 align="center">
-Welcome to my Profile !   
-</h1>
+# Welcome to my Profile !   
+
 
 `My Main Interests Are` :
 
