@@ -1,6 +1,8 @@
 <img height="200" width="200" align="right" src="https://github.com/0x157/0x157/blob/main/52O8.gif" > 
 
-## Welcome to my Profile !   
+<h1 align="center">
+Welcome to my Profile !   
+</h1>
 
 `My Main Interests Are` :
 
@@ -20,7 +22,9 @@
 
 <img src="https://img.shields.io/badge/-Python-f7e80c?logo=Python&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-Linux-557C94?logo=KaliLinux&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?logo=visualstudio&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-BASH-4EAA25?logo=gnubash&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-PyCharm-D22128?logo=pycharm&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-Windows-bd2341?logo=Windows&logoColor=0d0d0d">
 
-## Below Are some of my GitHub Stats
+<h1 align="center">
+Below Are some of my GitHub Stats
+</h1>
 ---
 <h1 align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=0x157&theme=dracula">
