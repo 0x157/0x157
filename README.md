@@ -17,7 +17,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x157-dev&label=Profile%20views&color=ba241c&style=flat" /> </p>
 
-## 💾 Techinal Skills
+## 🧬 Techinal Skills
 
 <img src="https://img.shields.io/badge/-Python-f7e80c?logo=Python&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-Docker-99ffff?logo=Docker&logoColor=000000"> <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-Linux-557C94?logo=KaliLinux&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?logo=visualstudio&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-BASH-4EAA25?logo=gnubash&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-PyCharm-D22128?logo=pycharm&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-Windows-bd2341?logo=Windows&logoColor=0d0d0d">
 
