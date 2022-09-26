@@ -7,7 +7,7 @@
 
 --> Cyber Security
 
---> Digital Forensics 
+--> Linux 
 
 --> Touch Typing (113 WPM)
 
