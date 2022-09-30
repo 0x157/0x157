@@ -9,7 +9,7 @@
 
 --> Linux 
 
---> Touch Typing (113 WPM)
+--> Touch Typing (119 WPM)
 
 --> Programming 
 
