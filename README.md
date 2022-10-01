@@ -19,7 +19,7 @@
 
 ## 🧬 Techinal Skills
 
-<img width="90" height="30" src="https://img.shields.io/badge/-Linux-E6FF99?logo=Linux&logoColor=000000">  <img width="100" height="30" src="https://img.shields.io/badge/-Python-D9ADFF?logo=Python&logoColor=0A0908">   <img width="100" height="30" src="https://img.shields.io/badge/-Docker-99ffff?logo=Docker&logoColor=000000">   <img width="105" height="30" src="https://img.shields.io/badge/-VS%20Code-FF80FF?logo=visualstudiocode&logoColor=000000">   <img width="90" height="30" src="https://img.shields.io/badge/-BASH-B4FFAD?logo=gnubash&logoColor=0d0d0d">    <img width="120" height="30" src="https://img.shields.io/badge/-Windows-FFADAD?logo=Windows&logoColor=0d0d0d">
+<img width="90" height="30" src="https://img.shields.io/badge/-Linux-E6FF99?logo=Linux&logoColor=000000">  <img width="100" height="30" src="https://img.shields.io/badge/-Python-D9ADFF?logo=Python&logoColor=0A0908">   <img width="100" height="30" src="https://img.shields.io/badge/-Docker-99ffff?logo=Docker&logoColor=000000">   <img width="105" height="30" src="https://img.shields.io/badge/-VS%20Code-9EA8FF?logo=visualstudiocode&logoColor=000000">   <img width="90" height="30" src="https://img.shields.io/badge/-BASH-B4FFAD?logo=gnubash&logoColor=0d0d0d">    <img width="120" height="30" src="https://img.shields.io/badge/-Windows-FFADAD?logo=Windows&logoColor=0d0d0d">
 
 <h1 align="left">
 Below Are some of my GitHub Stats
