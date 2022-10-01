@@ -15,7 +15,7 @@
 
 --> Reverse Engineering 
 
-<p width="95" height="30 align="left"> <img src="https://komarev.com/ghpvc/?username=0x157-dev&label=Profile%20views&color=0F0F0F&style=for-the-badge" /> </p>
+<p width="95" height="30 align="left"> <img src="https://komarev.com/ghpvc/?username=0x157-dev&label=Profile%20views&color=221F1F&style=for-the-badge" /> </p>
 
 ## 🧬 Techinal Skills
 
