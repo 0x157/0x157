@@ -21,7 +21,7 @@
 99ffff
 C49BBB
 
-<img src="https://img.shields.io/badge/-Linux-99ffff?logo=Linux&logoColor=000000"> <img src="https://img.shields.io/badge/-Docker-99ffff?logo=Docker&logoColor=000000"> <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-Python-9FA0C3?logo=Python&logoColor=0A0908"> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?logo=visualstudio&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-BASH-4EAA25?logo=gnubash&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-PyCharm-D22128?logo=pycharm&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-Windows-bd2341?logo=Windows&logoColor=0d0d0d">
+<img src="https://img.shields.io/badge/-Linux-E6FF99?logo=Linux&logoColor=000000"> <img src="https://img.shields.io/badge/-Docker-99ffff?logo=Docker&logoColor=000000"> <img src="https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-Python-9FA0C3?logo=Python&logoColor=0A0908"> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?logo=visualstudio&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-BASH-4EAA25?logo=gnubash&logoColor=0d0d0d">  <img src="https://img.shields.io/badge/-PyCharm-D22128?logo=pycharm&logoColor=0d0d0d"> <img src="https://img.shields.io/badge/-Windows-bd2341?logo=Windows&logoColor=0d0d0d">
 
 <h1 align="left">
 Below Are some of my GitHub Stats
