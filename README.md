@@ -15,8 +15,7 @@
 ---> **Reverse Engineering** 
 
 <p width="95" height="30 align="left"> <img src="https://komarev.com/ghpvc/?username=0x157-dev&label=Profile%20views&color=221F1F&style=for-the-badge" /> </p>
-
-                                                                                                                                                      <script src="https://tryhackme.com/badge/1353934">s</script>
+                                                                                                                                                    
 
 ## 🥥 Techinal Skills
 <img width="90" height="30" src="https://img.shields.io/badge/-Linux-E6FF99?logo=Linux&logoColor=000000&style=for-the-badge">  <img width="100" height="30" src="https://img.shields.io/badge/-Python-D9ADFF?logo=Python&logoColor=0A0908&style=for-the-badge">   <img width="100" height="30" src="https://img.shields.io/badge/-Docker-99ffff?logo=Docker&logoColor=000000&style=for-the-badge">   <img width="105" height="30" src="https://img.shields.io/badge/-VS%20Code-FF9E9E?logo=visualstudiocode&logoColor=000000&style=for-the-badge">  <img width="120" height="30" src="https://img.shields.io/badge/-Windows-FFD1D5?logo=Windows&logoColor=0d0d0d&style=for-the-badge"> <img width="120" height="30" src="https://img.shields.io/badge/-VirtualBox-DFDFFF?logo=VirtualBox&logoColor=0d0d0d&style=for-the-badge"> <img width="80" height="30" src="https://img.shields.io/badge/-Vim-99ffbb?logo=VIm&logoColor=0A0908&style=for-the-badge">
