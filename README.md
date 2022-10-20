@@ -8,7 +8,7 @@
 
 ---> **Linux** 
 
----> **Touch Typing (120 WPM)**
+---> **Touch Typing ( 120 WPM )**
 
 ---> **Programming** 
 
