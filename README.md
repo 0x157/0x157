@@ -17,7 +17,7 @@
 ---> **Reverse Engineering** 
 
 <p width="95" height="30 align="left"> <img src="https://komarev.com/ghpvc/?username=0x157-dev&label=Profile%20views&color=221F1F&style=for-the-badge" /> </p>           
-<script src="https://tryhackme.com/badge/1353934"></script>
+<script src="https://tryhackme.com/badge/1353934"> 
                                                                                                                                                       
 
 ## 🥥 Techinal Skills
