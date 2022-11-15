@@ -1,7 +1,7 @@
 
 <img height="200" width="200" align="right" src="https://github.com/0x157/0x157/blob/main/52O8.gif" > 
 
-# Welcome to my Profile !   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=23&pause=1000&color=E5FF75&width=435&lines=What's+up+!+I'm+Slava+-%3E+aka+0x157)](https://git.io/typing-svg) 
 
 
 `My Main Interests Are` :
