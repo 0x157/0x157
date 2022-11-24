@@ -15,7 +15,7 @@
 * Learning new things everyday :)
 
 
-![tryhackme stats](https://raw.githubusercontent.com/0x157/0x157/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/0x157/0x157/master/.assets/thm_propic.png)
 
 ## Below is my contributions graph for 2022
 
