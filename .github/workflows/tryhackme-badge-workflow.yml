@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 jobs:
   tryhackme-badge-update:
-    name: <script src="https://tryhackme.com/badge/1353934"></script>
+    name: "Try Hack me Badge"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
