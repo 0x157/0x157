@@ -14,7 +14,7 @@
 * Practicing touch typing, current record 120-wpm.
 * Learning new things everyday :)
 
-[](https://raw.githubusercontent.com/0x157/0x157/master/assets/thm_propic.png)
+[![p4p1's tryhackme stats](https://raw.githubusercontent.com/0x157/0x157/master/assets/thm_propic.png)][tryhackme]
 
 ## Below is my contributions graph for 2022
 
