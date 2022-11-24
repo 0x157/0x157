@@ -1,5 +1,5 @@
 
-<img height="200" width="200" align="right" src="https://github.com/0x157/0x157/blob/main/52O8.gif" > 
+<img height="200" width="200" align="right" src="https://github.com/0x157/0x157/blob/main/computer.gif" > 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=25&duration=6000&pause=1000&color=FF9586&width=435&lines=What's+up+!+I'm+Slava+-%3E+aka+0x157)](https://git.io/typing-svg)
                                                                                                             
