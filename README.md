@@ -5,7 +5,7 @@
 
 ## 🎆 I'm a cybersecurity researcher and CTF Player
 <p1>
-  <img height="200" width="200" align="right" src="https://github.com/0x157/0x157/blob/main/computer.gif" > 
+  <img height="150" width="150" align="right" src="https://github.com/0x157/0x157/blob/main/computer.gif" > 
   </p1>
    
 * Im currently going deep down with web security and bug bounty.
