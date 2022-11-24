@@ -1,4 +1,4 @@
-name: TryHackMe Update Badge
+name: <script src="https://tryhackme.com/badge/1353934"></script>
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 jobs:
   tryhackme-badge-update:
-    name: Update this repo's tryhackme badge with the latest tryhackme image badge
+    name: <script src="https://tryhackme.com/badge/1353934"></script>
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
