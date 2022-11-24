@@ -9,7 +9,8 @@
 * Im currently going deep down with web security and bug bounty.
 * Developing my own operating system scripts with python.
 * Constantly participating in CTF challenges and games.
-* 
+* Practicing touch typing, current record 120-wpm.
+* Learning new things everyday :)
 
 
 ## Below is my contributions graph for 2022
