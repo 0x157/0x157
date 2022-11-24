@@ -14,6 +14,8 @@
 * Practicing touch typing, current record 120-wpm.
 * Learning new things everyday :)
 
+![profile_demo](https://raw.githubusercontent.com/0x157/tryhackme-workflow/main/assets/public_profile.png)
+
 ## Below is my contributions graph for 2022
 
 <img src = https://github.com/0x157/0x157/blob/output/contrib-snek-yami.svg >
