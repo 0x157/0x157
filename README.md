@@ -2,11 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=27&duration=3000&pause=600&color=53FFF5&background=FFFFFF00&width=435&lines=What's+up+!+My+name+is+Slava.;I+hope+you+enjoy+your+stay+here.)](https://git.io/typing-svg)
 
 
-
 ## 🎆 I'm a cybersecurity researcher and CTF Player
 <p1>
+
   <img height="180" width="180" align="right" src="https://github.com/0x157/0x157/blob/main/computer.gif" > 
-  </p1>
+  
+</p1>
    
 * Im currently going deep down with web security and bug bounty.
 * Developing my own operating system scripts with python.
