@@ -15,6 +15,7 @@
 * Practicing touch typing, current record 125-wpm.
 * Learning new things everyday :)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/0x157.png" alt="TryHackMe">
 
 
 ## Below is my contributions graph for 2022
