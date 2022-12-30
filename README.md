@@ -10,9 +10,13 @@
 </p1>
    
 * Im currently going deep down with web security and bug bounty.
+
 * Developing my own operating system scripts with python.
+
 * Constantly participating in CTF challenges and games.
+
 * Practicing touch typing, current record 125-wpm.
+
 * Learning new things everyday :)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/0x157.png" alt="TryHackMe">
