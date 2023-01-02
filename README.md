@@ -21,9 +21,6 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/0x157.png" alt="TryHackMe">
 
-![tryhackme stats](https://raw.githubusercontent.com/0x157/0x157/master/assets/thm_propic.png)
-
-
 ## Below is my contributions graph for 2022 / 2023
 
 <img src = https://github.com/0x157/0x157/blob/output/contrib-snek-yami.svg >
