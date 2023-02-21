@@ -14,7 +14,7 @@
 
 * Constantly participating in CTF challenges and games.
 
-* Practicing touch typing, current record 125-wpm.
+* Practicing touch typing, current record 131-wpm.
 
 * Learning new things everyday :)
 
