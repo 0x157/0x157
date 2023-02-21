@@ -8,11 +8,11 @@
   
 </p1>
    
-* Im currently going deep down with web security and bug bounty.
+* Im currently going deep down with Splunk and ELK.
 
-* Developing my own operating system scripts with python.
+* Developing my own operating system scripts with python and powershell.
 
-* Constantly participating in CTF challenges and games.
+* Constantly participating in CTF tournaments and games.
 
 * Practicing touch typing, current record 131-wpm.
 
