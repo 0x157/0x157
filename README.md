@@ -20,7 +20,7 @@
 
 <img src="http://www.hackthebox.eu/badge/image/1029758" alt="Hack The Box">
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/0x157.png" alt="TryHackMe"> 
+<img src="https://tryhackme-badges.s3.amazonaws.com/0x157.png" alt="TryHackMe">
 
 ## Below is my contributions graph for 2022 / 2023
 
