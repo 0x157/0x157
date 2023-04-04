@@ -12,9 +12,9 @@
 
 * Developing my own operating system scripts with python and powershell.
 
-* Constantly participating in CTF tournaments and games.
+* Constantly participating in CTF tournaments.
 
-* Practicing touch typing, current record 131-wpm.
+* Practicing touch typing, current record 131-wpm ( 60 seconds ) .
 
 * Learning new things everyday :)
 
