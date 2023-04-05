@@ -4,7 +4,7 @@
 ## 🎆 I'm a cybersecurity nerd and CTF Player
 <p1>
 
-  <img height="180" width="180" align="right" src="https://i.pinimg.com/originals/17/60/ee/1760ee1f10253b8e07621e1066ff63e8.gif" > 
+  <img height="180" width="180" align="right" src="" > 
   
 </p1>
    
