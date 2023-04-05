@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delicious+Handrawn&size=30&duration=4000&pause=750&color=F79E27&width=435&lines=What's+Up!+My+name+is+0x157.;I+hope+you+enjoy+your+stay+here.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=26&duration=4000&pause=650&color=C2CFC9&width=435&lines=What's+Up!+My+name+is+0x157.;I+hope+you+enjoy+your+stay+here.)](https://git.io/typing-svg)
 
 ## 🌇 I'm a cybersecurity nerd and CTF Player
 <p1>
