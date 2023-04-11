@@ -15,6 +15,8 @@
 
 * Learning new things everyday :)
 
+<img src='https://tryhackme-badges.s3.amazonaws.com/0x157.png'>
+
 <img src="http://www.hackthebox.eu/badge/image/1029758" alt="Hack The Box">
 
 
