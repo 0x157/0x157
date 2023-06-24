@@ -11,7 +11,7 @@
 
 * Constantly participating in CTF tournaments.
 
-* Practicing touch typing, current PB **136**-wpm ( 60 seconds ) .
+* Practicing touch typing, current PB **141**-wpm ( 60 seconds ) .
 
 * Learning new things everyday :)
 
