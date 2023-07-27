@@ -19,6 +19,7 @@
    <a href="https://app.hackthebox.com/profile/1029758"><img src="http://www.hackthebox.eu/badge/image/1029758" alt="TryHackMe"></a>
 </div>
 
+<br></br>
 
 <div style="display: flex;">
    <a href="https://tryhackme.com/p/0x157"><img src="https://tryhackme-badges.s3.amazonaws.com/0x157.png" alt="TryHackMe"></a>
