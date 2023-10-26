@@ -11,7 +11,7 @@
 
 * Constantly participating in CTF tournaments **`[Forensics @ L3ak]`**.
 
-* Practicing touch typing, current PB **143**-wpm ( 60 seconds ) .
+* Practicing touch typing, current PB **145**-wpm ( 60 seconds ) .
 
 * Learning new things everyday :)
 
