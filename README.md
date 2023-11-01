@@ -23,5 +23,5 @@
 </div>
 
 ## Below is my contributions graph for 2022 / 2023
-<img src = https://github.com/0x157/0x157/blob/output/contrib-snek-yami.svg >
+![Snake animation](https://github.com/0x157/0x157/blob/output/github-contribution-grid-snake.svg)
 
