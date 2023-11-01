@@ -4,7 +4,7 @@
   <img height="180" width="180" align="right" src="https://github.com/0x157/0x157/blob/main/forensics.png" >  
 </p1>
    
-***** Im currently going deep down with Splunk and ELK.
+**`*`** Im currently going deep down with Splunk and ELK.
 
 * Developing my own operating system scripts with python and powershell.
 
