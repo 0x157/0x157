@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=26&duration=3500&pause=650&color=C2CFC9&width=435&lines=What's+Up!+My+name+is+0x157.;I+hope+you+enjoy+your+stay+here.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=700&size=25&duration=3750&pause=1000&color=ACBFE6&random=false&width=435&lines=Welcome+to+my+profile+!)](https://git.io/typing-svg)
 ## 🏙️ I'm a cybersecurity nerd and CTF Player
 <p1>
   <img height="180" width="180" align="right" src="https://github.com/0x157/0x157/blob/main/forensic.png" >  
