@@ -6,13 +6,13 @@
    
 **`*`** Im currently going deep down with Splunk and ELK.
 
-* Developing my own operating system scripts with python and powershell.
+**`*`** Developing my own operating system scripts with python and powershell.
 
-* Always participating in CTF tournaments **`Forensics @ L3ak CTF`**.
+**`*`** Always participating in CTF tournaments **`Forensics @ L3ak CTF`**.
 
-* Practicing touch typing, current PB **145**-wpm ( 60 seconds ) .
+**`*`** Practicing touch typing, current PB **145**-wpm ( 60 seconds ) .
 
-* Learning new things everyday :)
+**`*`** Learning new things everyday :)
 
 <div style="display: flex;">
    <a href="https://tryhackme.com/p/0x157"><img src="https://tryhackme-badges.s3.amazonaws.com/0x157.png" alt="TryHackMe"></a>
