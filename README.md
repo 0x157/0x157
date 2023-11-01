@@ -8,7 +8,7 @@
 
 * Developing my own operating system scripts with python and powershell.
 
-* Always participating in CTF tournaments **`Forensics && #miscgang @ L3ak CTF`**.
+* Always participating in CTF tournaments **`Forensics @ L3ak CTF`**.
 
 * Practicing touch typing, current PB **145**-wpm ( 60 seconds ) .
 
