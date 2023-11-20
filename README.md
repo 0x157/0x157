@@ -20,7 +20,7 @@
 </div>
 <br>
 <div style="display: flex;">
-   <a href="https://app.hackthebox.com/profile/1029758"><img src="http://www.hackthebox.eu/badge/image/1029758" alt="Hackthebox"></a>
+   <a href=""><img src="http://www.hackthebox.eu/badge/image/1029758" alt="Hackthebox"></a>
 </div>
 
 ## Below is my contributions graph for 2022 / 2023
