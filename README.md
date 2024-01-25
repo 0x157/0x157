@@ -4,15 +4,15 @@
   <img height="180" width="180" align="right" src="https://github.com/0x157/0x157/blob/main/forensics.png" >  
 </p1>
    
-* Im currently going deep down with **Splunk** and **ELK**.
+**`*`** Im currently going deep down with **Splunk** and **ELK**.
 
-**`*`** Developing my own operating system scripts with python and powershell.
+**`*`** Writing automation scripts in **python** and **powershell**.
 
-**`*`** Always participating in CTF tournaments.
+**`*`** Always participating in **CTF** tournaments.
 
-**`*`** Practicing touch typing, current PB **145**-wpm ( 60 seconds ) .
+**`*`** Practicing touch typing, current Personal-Best **145**-wpm ( **60** seconds ) .
 
-**`*`** Learning new things everyday :)
+**`*`** Top **0.03%** on Blue Team Labs Online ( **6th** **USA** )
 
 ![badges](https://github.com/0x157/0x157/assets/102762345/66700280-eaa8-442d-bf46-6782c76ace1f)
 
