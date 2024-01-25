@@ -1,5 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=29&duration=2600&pause=1000&color=F7B4C2&random=false&width=435&lines=Welcome+to+my+profile+!)
-## I'm a cybersecurity nerd and CTF Player
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=2600&pause=1000&color=F7B4C2&random=false&width=435&lines=Welcome+to+my+profile+!)
+## 🏝 I'm a cybersecurity nerd and CTF Player
 <p1>
   <img height="180" width="180" align="right" src="https://github.com/0x157/0x157/blob/main/forensics.png" >  
 </p1>
