@@ -16,14 +16,6 @@
 
 ![badges](https://github.com/0x157/0x157/assets/102762345/10580952-0997-496a-a546-7347d716d10e)
 
-<div style="display: flex;">
-   <a href="https://tryhackme.com/p/0x157"><img src="https://tryhackme-badges.s3.amazonaws.com/0x157.png" alt="TryHackMe"></a>
-</div>
-<br>
-<div style="display: flex;">
-   <a href="https://app.hackthebox.com/profile/1029758"><img src="http://www.hackthebox.eu/badge/image/1029758" alt="Hackthebox"></a>
-</div>
-
 ## Below is my contributions graph for 2022 / 2023
 ![Snake animation](https://github.com/0x157/0x157/blob/output/github-contribution-grid-snake-dark.svg)
 
