@@ -14,6 +14,8 @@
 
 **`*`** Learning new things everyday :)
 
+![badges](https://github.com/0x157/0x157/assets/102762345/10580952-0997-496a-a546-7347d716d10e)
+
 <div style="display: flex;">
    <a href="https://tryhackme.com/p/0x157"><img src="https://tryhackme-badges.s3.amazonaws.com/0x157.png" alt="TryHackMe"></a>
 </div>
