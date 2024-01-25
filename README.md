@@ -14,7 +14,9 @@
 
 **`*`** Learning new things everyday :)
 
-![ZDc1Ml8y](https://github.com/0x157/0x157/assets/102762345/ea967fa9-be19-4624-b32d-9b16825d22a8)
+<p1>
+<img height="30" width="80" src="https://github.com/0x157/0x157/assets/102762345/ea967fa9-be19-4624-b32d-9b16825d22a8"
+  </p1>
 
 <div style="display: flex;">
    <a href="https://tryhackme.com/p/0x157"><img src="https://tryhackme-badges.s3.amazonaws.com/0x157.png" alt="TryHackMe"></a>
