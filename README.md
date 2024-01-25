@@ -15,7 +15,7 @@
 **`*`** Learning new things everyday :)
 
 <p1>
-<img height="30" width="80" src="https://github.com/0x157/0x157/assets/102762345/ea967fa9-be19-4624-b32d-9b16825d22a8"
+<img height="150" width="250" align="left" src="https://github.com/0x157/0x157/assets/102762345/ea967fa9-be19-4624-b32d-9b16825d22a8"
   </p1>
 
 <div style="display: flex;">
