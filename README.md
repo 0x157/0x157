@@ -8,7 +8,7 @@
 
 **`*`** Writing automation scripts in **python** and **powershell**.
 
-**`*`** Always participating in **CTF** tournaments.
+**`*`** Frequently participating in **CTF** tournaments.
 
 **`*`** Practicing touch typing, current Personal-Best **145**-wpm ( **60** seconds ) .
 
