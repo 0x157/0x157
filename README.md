@@ -14,7 +14,9 @@
 
 **`*`** Learning new things everyday :)
 
-![output-onlinepngtools](https://github.com/0x157/0x157/assets/102762345/22b50f29-fbb6-4a53-a2cf-98cd35c245a8)
+<p1>
+  <img height="200" width="500" align="left" src="https://github.com/0x157/0x157/assets/102762345/22b50f29-fbb6-4a53-a2cf-98cd35c245a8" >  
+</p1>
 
 <div style="display: flex;">
    <a href="https://tryhackme.com/p/0x157"><img src="https://tryhackme-badges.s3.amazonaws.com/0x157.png" alt="TryHackMe"></a>
