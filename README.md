@@ -14,7 +14,7 @@
 
 **`*`** Learning new things everyday :)
 
-![badges](https://github.com/0x157/0x157/assets/102762345/41e7e904-24a9-44f3-a38b-a627368dc32b)
+![badges](https://github.com/0x157/0x157/assets/102762345/66700280-eaa8-442d-bf46-6782c76ace1f)
 
 ## Below is my contributions graph for 2022 / 2023
 ![Snake animation](https://github.com/0x157/0x157/blob/output/github-contribution-grid-snake-dark.svg)
