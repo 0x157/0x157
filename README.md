@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Pixelify+Sans&size=30&duration=2600&pause=1000&color=595959&random=false&width=435&lines=Welcome+to+my+profile+!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Pixelify+Sans&size=30&duration=2600&pause=1000&color=929292&random=false&width=435&lines=Welcome+to+my+profile+!)
 
 ## 🌴 I'm a cybersecurity nerd and CTF Player
 <p1>
