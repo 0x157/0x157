@@ -13,7 +13,7 @@
 
 **`*`** Practicing touch typing, current PB **145**-wpm ( **60** seconds ) .
 
-**`*`** Top **0.03%** on Blue Team Labs Online ( **6th** **USA** 🇺🇸 )
+**`*`** Top **0.03%** on Blue Team Labs Online ( **6th** **USA** )
 
 ![badges](https://github.com/0x157/0x157/assets/102762345/66700280-eaa8-442d-bf46-6782c76ace1f)
 
