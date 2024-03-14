@@ -15,8 +15,6 @@
 
 **`*`** Top **0.03%** on Blue Team Labs Online ( **6th** **USA** )
 
-![badges](https://github.com/0x157/0x157/assets/102762345/66700280-eaa8-442d-bf46-6782c76ace1f)
-
 ## Below is my contributions graph for 2022 / 2023
 ![Snake animation](https://github.com/0x157/0x157/blob/output/github-contribution-grid-snake-dark.svg)
 
