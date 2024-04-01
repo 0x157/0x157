@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Pixelify+Sans&size=32&duration=2600&pause=1000&color=bcbcf2&random=false&width=435&lines=Welcome+to+my+profile+!)
 
-## 🔍 I'm a cybersecurity nerd and CTF Player
+## 🗻 I'm a cybersecurity nerd and CTF Player
 <p1>
   <img height="180" width="180" align="right" src="https://github.com/0x157/0x157/assets/102762345/3e253538-4da3-47b7-b448-3df94fc86fd8" >  
 </p1>
