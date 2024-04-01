@@ -2,7 +2,7 @@
 
 ## 🌴 I'm a cybersecurity nerd and CTF Player
 <p1>
-  <img height="180" width="180" align="right" src="https://github.com/0x157/0x157/assets/102762345/2d58adaa-bff9-4607-8933-ec1d364ec373" >  
+  <img height="180" width="180" align="right" src="https://github.com/0x157/0x157/assets/102762345/6dd5101a-3c61-4fc0-90d9-c97c7cb30deb" >  
 </p1>
 
 **`*`** Im currently going deep down with **Splunk** and **ELK**.
