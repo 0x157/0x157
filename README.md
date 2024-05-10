@@ -13,7 +13,7 @@
 
 **`*`** Practicing touch typing, current PB **145**-wpm ( **60** seconds ) .
 
-**`*`** Top **0.03%** on Blue Team Labs Online ( **6th** **USA** )
+**`*`** Top **0.03%** on Blue Team Labs Online ( **4th** **USA** )
 
 ## Below is my contributions graph for 2023 / 2024
 ![Snake animation](https://github.com/0x157/0x157/blob/output/github-contribution-grid-snake-dark.svg)
