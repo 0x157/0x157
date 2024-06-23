@@ -1,4 +1,4 @@
-![svg](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=32&duration=2550&pause=1000&color=9DE9F7&random=false&width=435&lines=Welcome+to+my+profile+!)](https://git.io/typing-svg)
+![svg](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=32&duration=2550&pause=1000&color=9DE9F7&random=false&width=435&lines=Welcome+to+my+profile+!)
 
 ## I'm a cybersecurity nerd and CTF Player 
 <p1>
