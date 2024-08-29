@@ -1,4 +1,4 @@
-![svg](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=32&duration=2550&pause=1000&color=0b0b0b&random=false&width=435&lines=Welcome+to+my+profile+!)
+![svg](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=32&duration=2550&pause=1000&color=9FA8DA&random=false&width=435&lines=Welcome+to+my+profile+!)
 
 ## I'm a cybersecurity student and CTF Player 
 <p1>
