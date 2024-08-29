@@ -9,11 +9,11 @@
 
 **`*`** Writing automation scripts in **python** and **powershell**.
 
-**`*`** Playing CTFs with L3ak.
+**`*`** Playing CTFs with **L3ak**.
 
-**`*`** Practicing touch typing, current PB **145**-wpm ( **60** seconds ) .
+**`*`** Practicing touch typing, current PB **145**-wpm ( **60** seconds ).
 
-**`*`** Top **0.02%** on Blue Team Labs Online ( **4th** **USA** )
+**`*`** Top **0.01%** on Blue Team Labs Online (**4th** **USA**) 
 
 ## Below is my contributions graph for 2023 / 2024
 ![Snake animation](https://github.com/0x157/0x157/blob/output/github-contribution-grid-snake-dark.svg)
