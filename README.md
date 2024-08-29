@@ -9,7 +9,7 @@
 
 **`*`** Writing automation scripts in **python** and **powershell**.
 
-**`*`** Frequently participating in **CTF** tournaments.
+**`*`** Playing CTFs with L3ak.
 
 **`*`** Practicing touch typing, current PB **145**-wpm ( **60** seconds ) .
 
