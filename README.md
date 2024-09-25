@@ -11,7 +11,7 @@
 
 **`*`** Playing CTFs with **L3ak**.
 
-**`*`** Practicing touch typing, current PB **145**-wpm ( **60** seconds ).
+**`*`** Practicing touch typing, current PB **149**-wpm ( **60** seconds ).
 
 **`*`** Top **0.01%** on Blue Team Labs Online (**4th** **USA**) 
 
