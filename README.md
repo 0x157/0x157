@@ -13,7 +13,7 @@
 
 **`*`** Practicing touch typing, current record **154**-wpm **@** **60 Seconds**
 
-**`*`** Top **0.01%** on Blue Team Labs Online (**4th** **North America**) 
+**`*`** Top **0.01%** on Blue Team Labs Online (**4th** **in** **North America**) 
 
 **`*`** **BTL1** **|** **Security+** **|** **Pentest+** **|** **CySA+** **|** **ITF+** 
 
