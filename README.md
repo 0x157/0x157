@@ -21,5 +21,3 @@
 ## Below is my contributions graph for 2024 / 2025 
 ![Snake animation](https://github.com/0x157/0x157/blob/output/github-contribution-grid-snake-dark.svg)
 
-
-![-----------------------------------------------------](https://github.com/user-attachments/assets/93088c84-50a3-4294-a11d-44d671920939)
