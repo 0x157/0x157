@@ -1,4 +1,4 @@
-![svg](https://readme-typing-svg.demolab.com?font=Jersey+10&size=32&duration=3500&pause=500&color=8FF798&width=435&lines=Digital+Forensics+%26+Incident+Response)
+![svg](https://readme-typing-svg.demolab.com?font=Jersey+10&size=32&duration=3500&pause=500&color=77F771&width=435&lines=Digital+Forensics+%26+Incident+Response)
 
 ## I'm a security student and CTF Player 
 <p1>
