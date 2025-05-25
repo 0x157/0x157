@@ -5,7 +5,7 @@
   <img height="190" width="210" align="right" src="https://github.com/user-attachments/assets/44d46ee2-0354-4aa5-9e76-8e4de58be366" >  
 </p1>
 
-**`*`** Im currently working on some volatility3 plugins.
+**`*`** Im currently working on some **volatility3** plugins.
 
 **`*`** Scripting stuff with **python** and **powershell**.
 
