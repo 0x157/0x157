@@ -2,7 +2,6 @@
 
 ![svg](https://readme-typing-svg.demolab.com?font=Jersey+10&size=32&duration=3500&pause=500&color=77F771&width=435&lines=Digital+Forensics+%26+Incident+Response)
 
-## I'm a security student and CTF Player 
 <p1>
   <img height="210" width="200" align="right" src="https://github.com/user-attachments/assets/e4e055c5-6b4f-447d-9738-8875a345b448" >  
 </p1>
