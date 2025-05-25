@@ -5,11 +5,11 @@
   <img height="190" width="210" align="right" src="https://github.com/user-attachments/assets/44d46ee2-0354-4aa5-9e76-8e4de58be366" >  
 </p1>
 
-**`*`** Im currently coding an **EDR** from scratch.
+**`*`** Im currently working on some volatility3 plugins.
 
 **`*`** Scripting stuff with **python** and **powershell**.
 
-**`*`** Competing with **L3akCTF**.
+**`*`** Playing **CTF's** with **L3ak**.
 
 **`*`** Practicing touch typing, current record **156**-wpm **@** 60 Seconds
 
