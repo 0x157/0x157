@@ -1,11 +1,11 @@
+![-----------------------------------------------------](https://github.com/user-attachments/assets/93088c84-50a3-4294-a11d-44d671920939)
+
 ![svg](https://readme-typing-svg.demolab.com?font=Jersey+10&size=32&duration=3500&pause=500&color=77F771&width=435&lines=Digital+Forensics+%26+Incident+Response)
 
 ## I'm a security student and CTF Player 
 <p1>
   <img height="210" width="200" align="right" src="https://github.com/user-attachments/assets/e4e055c5-6b4f-447d-9738-8875a345b448" >  
 </p1>
-
-![-----------------------------------------------------](https://github.com/user-attachments/assets/93088c84-50a3-4294-a11d-44d671920939)
 
 **`*`** Im currently working on some **volatility3** plugins.
 
@@ -23,3 +23,4 @@
 ![Snake animation](https://github.com/0x157/0x157/blob/output/github-contribution-grid-snake-dark.svg)
 
 
+![-----------------------------------------------------](https://github.com/user-attachments/assets/93088c84-50a3-4294-a11d-44d671920939)
