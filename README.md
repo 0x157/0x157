@@ -5,6 +5,8 @@
   <img height="210" width="200" align="right" src="https://github.com/user-attachments/assets/e4e055c5-6b4f-447d-9738-8875a345b448" >  
 </p1>
 
+![-----------------------------------------------------](https://github.com/user-attachments/assets/93088c84-50a3-4294-a11d-44d671920939)
+
 **`*`** Im currently working on some **volatility3** plugins.
 
 **`*`** Scripting stuff with **python** and **powershell**.
