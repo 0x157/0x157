@@ -16,7 +16,7 @@
 
 **`*`** Top **0.01%** on Blue Team Labs (**4th** **in** **North America**) 
 
-**`*`** **BTL1** **|** **Security+** **|** **Pentest+ (pre firing this)** **|** **CySA+** **|** **ITF+** 
+**`*`** **BTL1** **|** **Security+** **|** **Pentest+** **|** **CySA+** **|** **ITF+** 
 
 ## Below is my contributions graph for 2024 / 2025 
 ![Snake animation](https://github.com/0x157/0x157/blob/output/github-contribution-grid-snake-dark.svg)
