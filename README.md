@@ -3,7 +3,7 @@
 
 ## Im a security student and CTF player T^T
 <p1>
-  <img height="256" width="256" align="right" src="https://github.com/user-attachments/assets/26539d23-de2f-4e56-b215-c8c7a126af58" >  
+  <img height="230" width="220" align="right" src="https://github.com/user-attachments/assets/26539d23-de2f-4e56-b215-c8c7a126af58" >  
 </p1>
 
 **`*`** Im currently working on some **volatility3** plugins.
