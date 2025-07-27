@@ -1,5 +1,5 @@
 
-![svg](https://readme-typing-svg.demolab.com?font=Jersey+10&size=32&duration=3500&pause=500&color=77F771&width=435&lines=Digital+Forensics+%26+Incident+Response)
+![svg](https://readme-typing-svg.demolab.com?font=Patrick+Hand&size=30&duration=3500&pause=1200&color=D398F7&width=435&lines=Digital+Forensics+%26+Incident+Response)](https://git.io/typing-svg)
 
 ## Im a security student and CTF player T^T
 <p1>
